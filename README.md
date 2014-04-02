@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [js-coder/range.js](http://github.com/js-coder/range.js). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/js-coder-range.js`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # range.js – JavaScript's missing range function [![Build Status](https://travis-ci.org/js-coder/range.js.png?branch=master)](https://travis-ci.org/js-coder/range.js)
 
 Features:
